@@ -715,9 +715,11 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
         which the individual believes contains <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#def-essential">Essential
           Claim(s)</a> must disclose the information in accordance with <a href="https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-Disclosure">section
           6 of the W3C Patent Policy</a>. </p>
-      This document is governed by the <a id="w3c_process_revision" href="https://www.w3.org/2015/Process-20150901/">1
+      <p>
+      This document is governed by the <a id="w3c_process_revision"
+        href="https://www.w3.org/2015/Process-20150901/">1
         September 2015 <abbr title="World Wide Web Consortium">W3C</abbr>
-        Process Document</a>.</section>
+        Process Document</a>.</p></section>
     <nav id="toc">
       <h2 class="introductory" id="table-of-contents" resource="#table-of-contents"><span
           property="xhv:role"
@@ -4127,6 +4129,5 @@ class="hljs-string">"//source"</span>
     </section>
     <p role="navigation" id="back-to-top"><a href="#toc"><abbr title="Back to Top">↑</abbr></a></p>
     <script src="https://www.w3.org/scripts/TR/2016/fixup.js"></script>
-    
   </body>
 </html>
